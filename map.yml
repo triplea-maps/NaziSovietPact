@@ -1,0 +1,4 @@
+map_name: NaziSovietPact
+games:
+- {game_name: Nazi Soviet Pact, file_name: nazi_soviet_pact.xml}
+version: 0
